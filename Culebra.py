@@ -1,10 +1,10 @@
-''' -----------------------------------------------------------
-    |                      Juego Culebra                      |
-    |                         V. 1.0                          | 
-    |                      Clase Culebra                      |      
-    |               Autor: Ing. Juan David Díaz               |
-    |                          2022                           |
-    -----------------------------------------------------------'''
+# Author: Ing. Juan David Díaz
+# Date: 2022
+# Version: 1.0
+# Proyect: Juego culebra
+# Proyect description: Juego retro de culebra en pygame 2.1.2 (SDL 2.0.18, Python 3.10.0)
+# Description: Clase Culebra
+
 from Parte import Parte
 
 class Culebra:    
